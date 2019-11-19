@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25a977a2-3df5-4f49-b62f-1d13954afdf8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TqLFYUXyu3pzXXw3ec4qDhGLAj" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AulaTest.deveCriarAulaPorMeioDeUmConstrutor">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListaDeChamada.App" />
+      <module name="ListaDeChamada" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaDeChamada.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlunoTeste.deveCriarAlunoPorMeioDoConstrutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ListaDeChamada" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaDeChamada.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ListaDeChamada" />
+      <option name="MAIN_CLASS_NAME" value="ListaDeChamada.AlunoTeste" />
+      <option name="METHOD_NAME" value="deveCriarAlunoPorMeioDoConstrutor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AulaTest.deveCriarAulaPorMeioDeUmConstrutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ListaDeChamada" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaDeChamada.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ListaDeChamada" />
+      <option name="MAIN_CLASS_NAME" value="ListaDeChamada.AulaTest" />
+      <option name="METHOD_NAME" value="deveCriarAulaPorMeioDeUmConstrutor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MateriaTest.deveCriarUmaMateriaPorMeioDoConstrutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ListaDeChamada" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaDeChamada.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ListaDeChamada" />
+      <option name="MAIN_CLASS_NAME" value="ListaDeChamada.MateriaTest" />
+      <option name="METHOD_NAME" value="deveCriarUmaMateriaPorMeioDoConstrutor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfessorTest.deveCriarUmProfessorPorMeioDoConstrutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ListaDeChamada" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaDeChamada.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ListaDeChamada" />
+      <option name="MAIN_CLASS_NAME" value="ListaDeChamada.ProfessorTest" />
+      <option name="METHOD_NAME" value="deveCriarUmProfessorPorMeioDoConstrutor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AulaTest.deveCriarAulaPorMeioDeUmConstrutor" />
+        <item itemvalue="JUnit.MateriaTest.deveCriarUmaMateriaPorMeioDoConstrutor" />
+        <item itemvalue="JUnit.ProfessorTest.deveCriarUmProfessorPorMeioDoConstrutor" />
+        <item itemvalue="JUnit.AlunoTeste.deveCriarAlunoPorMeioDoConstrutor" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25a977a2-3df5-4f49-b62f-1d13954afdf8" name="Default Changelist" comment="" />
+      <created>1574182575969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574182575969</updated>
+      <workItem from="1574182579662" duration="13250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
