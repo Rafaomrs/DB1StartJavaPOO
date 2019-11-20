@@ -2,6 +2,7 @@ package ListaDeChamada;
 
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 
 public class App {
     public static void main(String[] args) {
@@ -19,13 +20,10 @@ public class App {
                 3, professor);
 
         //criando aula        //CRIAR CONSTRUTOR E TESTAR
-        Aula aula = new Aula();
-        aula.data = new Date();
-        aula.materia = materia;
-        aula.alunos = new ArrayList<Aluno>();
-        aula.alunos.add(aluno1);
-        aula.alunos.add(aluno2);
 
+        Date data  = new Date();
+        List<Aluno> listAluno = new ArrayList<Aluno>();
+        Aula aula = new Aula(data, materia, listAluno);
 
         System.out.println(aula);
 

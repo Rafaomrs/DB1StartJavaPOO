@@ -13,7 +13,7 @@ public class AulaTest {
         Professor professor = new Professor("fake@dake.com", "ProfessorFake");
         Materia materia = new Materia("POO", "fakefakefake", 10.5, 3, professor);
         List<Aluno> list = new ArrayList<>();
-        Aula aula = new Aula(data, professor, materia, list);
+        Aula aula = new Aula(data, materia, list);
         Assert.assertEquals(data, aula.getData());
         Assert.assertEquals(materia, aula.getMateria());
         Assert.assertEquals(list, aula.getAlunos());

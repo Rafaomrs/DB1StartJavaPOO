@@ -4,20 +4,17 @@ import java.util.Date;
 import java.util.List;
 
 public class Aula {
-    public Date data;
-    public Materia materia;
-    public List<Aluno> alunos;
+    private Date data;
+    private Materia materia;
+    private List<Aluno> alunos;
 
 
-    public Aula(Date data, Professor professor, Materia materia, List<Aluno> listaluno) {
+    public Aula(Date data, Materia materia, List<Aluno> listaluno) {
         this.data = data;
         this.materia = materia;
         this.alunos = listaluno;
     }
 
-    public Aula() {
-
-    }
 
 
     public Date getData(){
