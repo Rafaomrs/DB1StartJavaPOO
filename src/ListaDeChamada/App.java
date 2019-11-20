@@ -1,5 +1,10 @@
 package ListaDeChamada;
 
+import Classes.Aluno;
+import Classes.Aula;
+import Classes.Materia;
+import Classes.Professor;
+
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -28,7 +33,7 @@ public class App {
         List<Aluno> listAluno = new ArrayList<Aluno>();
         listAluno.add(aluno1);
         listAluno.add(aluno2);
-        Aula aula = new Aula(data, materia, listAluno);
+        Aula aula = new Aula(data, materia);
 
         System.out.println(aula);
     }

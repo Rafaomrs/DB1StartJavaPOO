@@ -1,5 +1,6 @@
-package ListaDeChamada;
+package Testes;
 
+import Classes.Professor;
 import org.junit.Assert;
 import org.junit.Test;
 

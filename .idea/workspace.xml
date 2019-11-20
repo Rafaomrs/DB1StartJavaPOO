@@ -2,9 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25a977a2-3df5-4f49-b62f-1d13954afdf8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testes/AlunoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testes/AulaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testes/MateriaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListaDeChamada/ListaDeChamada/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListaDeChamada/ListaDeChamada/AlunoTeste.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ListaDeChamada/ListaDeChamada/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ListaDeChamada/ListaDeChamada/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListaDeChamada/ListaDeChamada/Aula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListaDeChamada/ListaDeChamada/AulaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListaDeChamada/ListaDeChamada/Materia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListaDeChamada/ListaDeChamada/MateriaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListaDeChamada/ListaDeChamada/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListaDeChamada/ListaDeChamada/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListaDeChamada/ListaDeChamada/ProfessorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/AlunoTeste.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Aula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/AulaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/Materia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Materia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/MateriaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/ProfessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Testes/ProfessorTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,91 +66,90 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListaDeChamada.App" />
+  <component name="RunManager" selected="JUnit.AlunoTeste.deveAdicionarAlunoNaChamada">
+    <configuration name="AlunoTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ListaDeChamada" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListaDeChamada.*" />
+          <option name="PATTERN" value="Testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Testes" />
+      <option name="MAIN_CLASS_NAME" value="Testes.AlunoTeste" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AlunoTeste.deveCriarAlunoPorMeioDoConstrutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AlunoTeste.deveAdicionarAlunoNaChamada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ListaDeChamada" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListaDeChamada.*" />
+          <option name="PATTERN" value="Testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ListaDeChamada" />
-      <option name="MAIN_CLASS_NAME" value="ListaDeChamada.AlunoTeste" />
-      <option name="METHOD_NAME" value="deveCriarAlunoPorMeioDoConstrutor" />
+      <option name="PACKAGE_NAME" value="Testes" />
+      <option name="MAIN_CLASS_NAME" value="Testes.AlunoTeste" />
+      <option name="METHOD_NAME" value="deveAdicionarAlunoNaChamada" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AulaTest.deveCriarAulaPorMeioDeUmConstrutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AulaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ListaDeChamada" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListaDeChamada.*" />
+          <option name="PATTERN" value="Testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ListaDeChamada" />
-      <option name="MAIN_CLASS_NAME" value="ListaDeChamada.AulaTest" />
-      <option name="METHOD_NAME" value="deveCriarAulaPorMeioDeUmConstrutor" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="Testes" />
+      <option name="MAIN_CLASS_NAME" value="Testes.AulaTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MateriaTest.deveCriarUmaMateriaPorMeioDoConstrutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MateriaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ListaDeChamada" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListaDeChamada.*" />
+          <option name="PATTERN" value="Testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ListaDeChamada" />
-      <option name="MAIN_CLASS_NAME" value="ListaDeChamada.MateriaTest" />
-      <option name="METHOD_NAME" value="deveCriarUmaMateriaPorMeioDoConstrutor" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="Testes" />
+      <option name="MAIN_CLASS_NAME" value="Testes.MateriaTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProfessorTest.deveCriarUmProfessorPorMeioDoConstrutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProfessorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ListaDeChamada" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListaDeChamada.*" />
+          <option name="PATTERN" value="Testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ListaDeChamada" />
-      <option name="MAIN_CLASS_NAME" value="ListaDeChamada.ProfessorTest" />
-      <option name="METHOD_NAME" value="deveCriarUmProfessorPorMeioDoConstrutor" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="Testes" />
+      <option name="MAIN_CLASS_NAME" value="Testes.ProfessorTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
-        <item itemvalue="JUnit.AulaTest.deveCriarAulaPorMeioDeUmConstrutor" />
-        <item itemvalue="JUnit.MateriaTest.deveCriarUmaMateriaPorMeioDoConstrutor" />
-        <item itemvalue="JUnit.ProfessorTest.deveCriarUmProfessorPorMeioDoConstrutor" />
-        <item itemvalue="JUnit.AlunoTeste.deveCriarAlunoPorMeioDoConstrutor" />
+        <item itemvalue="JUnit.AlunoTeste.deveAdicionarAlunoNaChamada" />
+        <item itemvalue="JUnit.ProfessorTest" />
+        <item itemvalue="JUnit.MateriaTest" />
+        <item itemvalue="JUnit.AulaTest" />
+        <item itemvalue="JUnit.AlunoTeste" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574182575969</updated>
       <workItem from="1574182579662" duration="13250000" />
-      <workItem from="1574266967265" duration="2791000" />
+      <workItem from="1574266967265" duration="11477000" />
     </task>
     <servers />
   </component>

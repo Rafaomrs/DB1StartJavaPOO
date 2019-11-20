@@ -1,6 +1,8 @@
-package ListaDeChamada;
+package Classes;
 
-public class Professor extends Pessoa{
+import Classes.Pessoa;
+
+public class Professor extends Pessoa {
     public Double salario;
 
     //CONTRUTOR

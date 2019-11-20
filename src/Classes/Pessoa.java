@@ -1,4 +1,6 @@
-package ListaDeChamada;
+package Classes;
+
+import Exceptions.CampoNaoPodeSerNulo;
 
 public abstract class Pessoa {
 
@@ -7,8 +9,18 @@ public abstract class Pessoa {
 
     //CONSTRUTOR
     public Pessoa(String email, String nome){
+        if (email == null){
+            throw new CampoNaoPodeSerNulo("Email nao pode ser nulo");
+        }
+        if (nome == null){
+            throw new CampoNaoPodeSerNulo("Nome nao pode ser nulo");
+        }
         this.nome = nome;
         this.email = email;
+    }
+
+    public Pessoa() {
+
     }
 
 

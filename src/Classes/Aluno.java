@@ -1,11 +1,15 @@
-package ListaDeChamada;
+package Classes;
 
-public class Aluno extends Pessoa{
+public class Aluno extends Pessoa {
     public Double nota;
 
     //CONTRUTOR
     public Aluno(String email, String nome){
-        super(nome, email);
+        super(email, nome);
+    }
+
+    public Aluno() {
+        super();
     }
 
     //ENFILEIRADOR DE STRING
