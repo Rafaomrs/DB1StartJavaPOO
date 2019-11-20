@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25a977a2-3df5-4f49-b62f-1d13954afdf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ListaDeChamada/ListaDeChamada/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ListaDeChamada/ListaDeChamada/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ListaDeChamada/ListaDeChamada/Aula.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ListaDeChamada/ListaDeChamada/Aula.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/AulaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/AulaTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AulaTest.deveCriarAulaPorMeioDeUmConstrutor">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListaDeChamada.App" />
       <module name="ListaDeChamada" />
@@ -128,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.AulaTest.deveCriarAulaPorMeioDeUmConstrutor" />
         <item itemvalue="JUnit.MateriaTest.deveCriarUmaMateriaPorMeioDoConstrutor" />
         <item itemvalue="JUnit.ProfessorTest.deveCriarUmProfessorPorMeioDoConstrutor" />
         <item itemvalue="JUnit.AlunoTeste.deveCriarAlunoPorMeioDoConstrutor" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +143,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574182575969</updated>
       <workItem from="1574182579662" duration="13250000" />
-      <workItem from="1574266967265" duration="1000000" />
+      <workItem from="1574266967265" duration="2791000" />
     </task>
     <servers />
   </component>
